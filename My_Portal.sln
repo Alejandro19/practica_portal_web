@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "My_Portal", "My_Portal\My_Portal.csproj", "{496720C1-3AF9-49C0-8C91-526E72747FF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{496720C1-3AF9-49C0-8C91-526E72747FF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{496720C1-3AF9-49C0-8C91-526E72747FF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{496720C1-3AF9-49C0-8C91-526E72747FF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{496720C1-3AF9-49C0-8C91-526E72747FF5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
